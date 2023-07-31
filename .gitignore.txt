@@ -1,0 +1,4 @@
+# Ignore the folder containing 1.2GB size model. ie ShishirAI_NepWav2Vec2
+/ShishirAI_NepWav2Vec2
+
+
